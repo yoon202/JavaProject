@@ -43,7 +43,7 @@ Java와 MySQL을 활용하여 기존 학사 관리 시스템의 복잡한 UI를 
 데이터 간의 유기적인 관계를 고려하여 정규화된 DB 설계를 적용했습니다.
 
 <p align="center">
-  <img src="images/erd.png" width="600">
+  
 </p>
 
 * **`users`**: 시스템 접속 계정 및 관리자/사용자 권한 구분
