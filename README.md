@@ -9,10 +9,10 @@ Java와 MySQL을 활용하여 기존 학사 관리 시스템의 복잡한 UI를 
 
 ## 📺 Project Overview
 
-| 로그인 화면 | 메인 대시보드 |
+| 로그인 화면 | 
 | :---: | :---: |
 | <img width="379" height="187" alt="Image" src="https://github.com/user-attachments/assets/82adbcb3-7c9d-4c11-9304-848936d7f299" /> |
-| **보안 인증 및 권한 관리** | **직관적인 데이터 현황판** |
+| **보안 인증 및 권한 관리** | 
 
 | 학생 정보 관리 화면 | 기능 설명|
 | :---: | :---: |
