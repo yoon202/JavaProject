@@ -27,10 +27,7 @@ Java와 MySQL을 활용하여 기존 학사 관리 시스템의 복잡한 UI를 
 * **학생 및 교수 관리:** 학번과 내부 고유 ID를 분리하여 데이터의 무결성 확보
 * **강의 통합 관리:** 담당 교수 배정 및 강의 스케줄링 시스템 구축
 * **일관된 UI/UX:** 모든 관리 탭에서 동일한 인터페이스를 제공하여 사용자의 학습 비용 최소화
-| 학생 정보 관리 화면 | 기능 설명|
-| :---: | :---: |
-|<img width="937" height="326" alt="Image" src="https://github.com/user-attachments/assets/1016b061-f0a7-4de4-adb6-d018d1fc6b14" /> |<img width="1270" height="713" alt="Image" src="https://github.com/user-attachments/assets/f1aa12a3-8f88-49c0-b25c-66e622e86cf0" />|
-| **중복 데이터 체크 및 필수 값 검증** | **목록 정렬 / 검색** |
+
 
 ### 3. 스마트 출결 시스템
 * **조건별 검색:** 날짜별, 학생별 필터링을 통해 수많은 데이터 중 필요한 정보만 즉시 추출
